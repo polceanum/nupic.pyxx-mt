@@ -5,9 +5,9 @@ This code allows you to access and use python code from a multithreaded C++ prog
 
 Dependencies
 ============
-libboost-thread-dev (tested with version 1.46 of boost)
-libboost-python-dev (tested with version 1.46 of boost)
-libpython2.7
+ * libboost-thread-dev (tested with version 1.46 of boost)
+ * libboost-python-dev (tested with version 1.46 of boost)
+ * libpython2.7
 
 Usage
 =====
