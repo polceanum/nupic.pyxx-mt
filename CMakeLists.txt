@@ -1,4 +1,3 @@
-
 cmake_minimum_required(VERSION 2.8)
 
 set(CMAKE_BUILD_TYPE Debug)
@@ -17,7 +16,6 @@ LINK_DIRECTORIES(
 LINK_LIBRARIES(
     
     #-- BOOST --#
-    boost_system-mt
     boost_thread-mt
     
     #-- Python Wrapper --#
