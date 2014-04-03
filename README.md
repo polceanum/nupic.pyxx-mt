@@ -13,7 +13,7 @@ Dependencies
 
 Usage
 =====
-Go to download directory (where CMakeLists.txt is located) and:
+Go to the download directory (where CMakeLists.txt is located) and:
 
     mkdir build
     cd build
